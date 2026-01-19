@@ -3,6 +3,12 @@ import { createAdminClient } from "@/lib/supabase/server-admin"
 
 export async function POST(request: Request) {
   try {
+    // Debug: Check if required env vars are set
+    if (!process.env.SUPABASE_SERVICE_ROLE_KEY) {
+      console.error("[v0] Missing SUPABASE_SERVICE_ROLE_KEY environment variable")
+      return NextResponse.json({ error: "Server configuration error: missing credentials" }, { status: 500 })
+    }
+
     const { firstName, email, phone, interest } = await request.json()
 
     // Basic validation

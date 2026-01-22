@@ -5,7 +5,7 @@ const socialLinks = [
   { icon: Facebook, href: "#", label: "Facebook" },
   { icon: Twitter, href: "#", label: "Twitter" },
   { icon: Instagram, href: "#", label: "Instagram" },
-  { icon: Mail, href: "mailto:hello@ummahrket.com", label: "Email" },
+  { icon: Mail, href: "mailto:hello@ummarket.com", label: "Email" },
 ]
 
 const footerLinks = [
@@ -22,7 +22,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-8">
           {/* Logo & Tagline */}
           <div className="text-center md:text-left">
-            <h3 className="font-heading text-2xl font-bold mb-2">UmMahrket</h3>
+            <h3 className="font-heading text-2xl font-bold mb-2">UmMarket</h3>
             <p className="text-white/60 text-sm">Shop. Connect. Grow.</p>
           </div>
 
@@ -57,7 +57,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="mt-8 pt-8 border-t border-white/10 text-center">
           <p className="text-white/40 text-sm">
-            &copy; {new Date().getFullYear()} UmMahrket. All rights reserved. Made with faith in Nigeria.
+            &copy; {new Date().getFullYear()} UmMarket. All rights reserved. Made with faith in Nigeria.
           </p>
         </div>
       </div>

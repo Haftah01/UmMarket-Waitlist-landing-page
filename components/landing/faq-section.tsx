@@ -5,29 +5,29 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 
 const faqs = [
   {
-    question: "When will UmMahrket launch?",
+    question: "When will UmMarket launch?",
     answer:
-      "We're targeting Q2 2024 for our beta launch in Lagos and Abuja. Join the waitlist to be among the first to access the platform and receive exclusive founding member benefits.",
+      "We are targeting end of Q1 'Ramadan' 2026 for our beta launch in Lagos and Ibadan. Join the waitlist to be among the first to access the platform and receive exclusive founding member benefits.",
   },
   {
     question: "How do you verify sellers and service providers?",
     answer:
-      "Our verification process includes business registration checks, Islamic credentials verification (where applicable), portfolio reviews, and community references. We also implement ongoing monitoring through customer reviews and ratings.",
+      "Our verification process includes business registration checks, Goverment services 'C.A.C', Islamic credentials verification (where applicable), portfolio reviews, and community references. We also implement ongoing monitoring through customer reviews and ratings.",
   },
   {
     question: "What payment methods will be supported?",
     answer:
-      "We're partnering with Paystack to support bank transfers, debit cards, and mobile money. All transactions are secured with industry-standard encryption and escrow protection for services.",
+      "We are partnering with Paystack to support bank transfers, debit cards, and mobile money. All transactions are secured with industry-standard encryption and escrow 'pay on delivery' protection for services.",
   },
   {
-    question: "Is it free to sell on UmMahrket?",
+    question: "Is it free to sell on UmMarket?",
     answer:
-      "Yes! Onboarding is completely free. We only charge a small commission on successful transactions (10-15% for products, 15-20% for services) — significantly lower than many competitors.",
+      "Yes! Onboarding is completely free. We only charge a small commission on successful transactions (5-15% for products, 15-20% for services) — ensuring easy end to end services.",
   },
   {
     question: "What categories of products and services will be available?",
     answer:
-      "Products include Islamic apparel, prayer items, halal food & beverages, books, electronics, and halal beauty products. Services cover Quran tutoring, Islamic event planning, halal catering, modest fashion design, and home services.",
+      "Products include Islamic apparel, Prayer items, Halal food & beverages, Books, Electronics, and halal beauty products. Services cover Quran tutoring, Islamic event planning, Halal catering, Modest fashion design, and Home services,....",
   },
   {
     question: "How can I become a vendor or service provider?",

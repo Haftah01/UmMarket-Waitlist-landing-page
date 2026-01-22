@@ -15,7 +15,7 @@ const testimonials = [
   },
   {
     name: "Ibrahim Mohammed",
-    role: "Quran Teacher, Abuja",
+    role: "Quran Teacher, Ibadan",
     image: "/nigerian-muslim-man-teacher-headshot.jpg",
     quote:
       "As a Quran tutor, I struggled to find students beyond my mosque. UmMahrket will change everything for educators like me.",
@@ -23,7 +23,7 @@ const testimonials = [
   },
   {
     name: "Aisha Yusuf",
-    role: "Modest Fashion Designer, Kano",
+    role: "Modest Fashion Designer, Lagos ",
     image: "/nigerian-muslim-woman-fashion-designer-headshot.jpg",
     quote:
       "I've been selling through WhatsApp for years. A verified platform that understands our values? Count me in!",

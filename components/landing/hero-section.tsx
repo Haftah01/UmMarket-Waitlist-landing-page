@@ -67,7 +67,7 @@ export default function HeroSection() {
                 className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-6 text-lg"
                 onClick={() => document.getElementById("waitlist-form")?.scrollIntoView({ behavior: "smooth" })}
               >
-                Join 2,000+ Muslims on Waitlist
+                Join 100+ Muslims on Waitlist
               </Button>
               <Button
                 size="lg"

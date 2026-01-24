@@ -5,7 +5,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 
 const faqs = [
   {
-    question: "When will UmMarket launch?",
+    question: "When will UmMarkhet launch?",
     answer:
       "We are targeting end of Q1 'Ramadan' 2026 for our beta launch in Lagos and Ibadan. Join the waitlist to be among the first to access the platform and receive exclusive founding member benefits.",
   },
@@ -20,7 +20,7 @@ const faqs = [
       "We are partnering with Paystack to support bank transfers, debit cards, and mobile money. All transactions are secured with industry-standard encryption and escrow 'pay on delivery' protection for services.",
   },
   {
-    question: "Is it free to sell on UmMarket?",
+    question: "Is it free to sell on UmMarkhet?",
     answer:
       "Yes! Onboarding is completely free. We only charge a small commission on successful transactions (5-15% for products, 15-20% for services) — ensuring easy end to end services.",
   },
@@ -50,7 +50,7 @@ export default function FAQSection() {
           <h2 className="font-heading text-3xl lg:text-5xl font-bold text-foreground mb-4 text-balance">
             Frequently Asked Questions
           </h2>
-          <p className="text-lg lg:text-xl text-muted-foreground">Everything you need to know about UmMahrket</p>
+          <p className="text-lg lg:text-xl text-muted-foreground">Everything you need to know about UmMarkhet</p>
         </motion.div>
 
         {/* FAQ Accordion */}

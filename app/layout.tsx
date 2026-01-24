@@ -18,12 +18,12 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "UmMarket - Nigeria's First Muslim Lifestyle Platform",
+  title: "UmMarkhet - Nigeria's First Muslim Lifestyle Platform",
   description:
     "Shop verified Islamic products, book trusted Muslim service providers, and grow your business. Join 2,000+ Muslims on the waitlist.",
   keywords: ["halal", "muslim marketplace", "islamic products", "nigeria", "quran tutor", "halal food"],
   openGraph: {
-    title: "UmMarket - Shop. Connect. Grow.",
+    title: "UmMarkhet - Shop. Connect. Grow.",
     description: "Nigeria's first comprehensive digital ecosystem for the Muslim community.",
     type: "website",
   },

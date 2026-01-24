@@ -8,7 +8,7 @@ import Image from "next/image"
 
 const trustBadges = [
   { icon: ShieldCheck, text: "100% Halal Verified" },
-  { icon: Users, text: "2,000+ Waiting" },
+  { icon: Users, text: "100+ Waiting" },
   { icon: MapPin, text: "Nigerian-Owned" },
   { icon: CreditCard, text: "Paystack Secure" },
 ]

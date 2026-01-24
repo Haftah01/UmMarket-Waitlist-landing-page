@@ -124,7 +124,7 @@ export default function HeroSection() {
               className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-card rounded-xl shadow-xl p-6 border border-primary/20"
             >
               <div className="text-center">
-                <p className="text-3xl font-bold text-primary">2,000+</p>
+                <p className="text-3xl font-bold text-primary">100+</p>
                 <p className="text-sm text-muted-foreground">Muslims Waiting</p>
               </div>
             </motion.div>
